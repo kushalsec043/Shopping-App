@@ -6,9 +6,9 @@ Components and Directives, Header and navigation capabilities.
 Version 2.1 has been updated
 Updates include Routing, forms and services.
 
-Next Update includes..............
-Server side communication (firebase)
-Http requests
+Next Update includes.........-->>>
+Server side communication (firebase),,/
+Http requests,,/
 Authetication for a valid user.
 
 
